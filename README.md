@@ -5,7 +5,7 @@ Analyzing the customer purchase behavior (specifically, purchase amount) against
 
 [Download the presentation PDF](Walmart-Presentation.pdf)
 
-Here is a demo of my Power BI dashboard:
+Here is a demo of the Power BI dashboard:
 
 ![Dashboard Demo](https://github.com/jessicaphamca/Walmart_Customer_Purchase_Behavior/blob/main/Walmart_Dashboard.gif?raw=true)
 
