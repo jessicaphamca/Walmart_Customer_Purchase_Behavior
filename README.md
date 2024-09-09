@@ -81,7 +81,7 @@ Recommendations for Walmart based on the analysis:
 
 ---
 
-For more details, refer to the project’s GitHub repository [here](https://github.com/jessicaphamca/jessicaphamca.github.io).
+For more details, refer to the project’s GitHub repository [here](https://github.com/jessicaphamca/Walmart_Customer_Purchase_Behavior/blob/main/Walmart.ipynb).
 
 
 [Download the presentation PDF](Walmart-Presentation.pdf)
